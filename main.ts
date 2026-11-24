@@ -1,4 +1,4 @@
-// Break Production, Own It — make.fun program/v1 entry.
+// Break Production, Own It: make.fun program/v1 entry.
 // Writes the one line an AI agent prints the moment it breaks production
 // to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
 // The gate requires UTF-8 text of 1 to 200 characters, a single line,
